@@ -7,8 +7,11 @@ Ce script Python permet de comparer les nombres de transactions entre la  base d
     ## Structure du projet
 
 ├── ComparisonVTPG_FR.py # Script principal de comparaison
+
 ├── Connexions_FR.py # Fonctions d'accès aux bases de données
+
 ├── Functions_FR.py # Fonctions utilitaires (connexion, validation)
+
 ├── Config_FR.py # Paramètres globaux et messages
 
 
